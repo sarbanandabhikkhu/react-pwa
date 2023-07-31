@@ -1,0 +1,61 @@
+$dark: #282c34;
+$light: #f2f2f2;
+$accent: #61dafb;
+
+// set text color
+@function setColor($color) {
+  @if (lightness($color) > 40) {
+    @return $dark;
+  } @else {
+    @return $light;
+  }
+}
+
+// media queries
+@mixin mediaSm {
+  @media screen and (max-width: 500px) {
+    @content;
+  }
+}
+@mixin mediaSm {
+  @media screen and (max-width: 500px) {
+    @content;
+  }
+}
+@mixin mediaMd {
+  @media screen and (max-width: 768px) {
+    @content;
+  }
+}
+@mixin mediaLg {
+  @media screen and (min-width: 769px) and (max-width: 1170px) {
+    @content;
+  }
+}
+@mixin mediaXl {
+  @media screen and (min-width: 1171) {
+    @content;
+  }
+}
+
+@mixin prefersColorSchemeDark {
+  @media (prefers-color-scheme: dark) {
+    @content;
+  }
+}
+
+@mixin prefersColorSchemeLight {
+  @media (prefers-color-scheme: light) {
+    @content;
+  }
+}
+
+@mixin mediaPrefers {
+  @media (prefers-reduced-motion: no-preference) {
+    @content;
+  }
+}
+
+@mixin keyFrames {
+  @content;
+}

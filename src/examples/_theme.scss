@@ -1,0 +1,219 @@
+@include prefersColorSchemeDark {
+  .Examples {
+    color: setColor($dark);
+    background-color: $dark;
+
+    .Header {
+      color: setColor(lighten($dark, 10));
+      background-color: lighten($dark, 10);
+
+      svg {
+        fill: setColor(lighten($dark, 10));
+      }
+
+      svg:hover {
+        fill: darken($accent, 20);
+      }
+      .HeaderRight {
+        button {
+          color: setColor(lighten($dark, 15));
+          background-color: lighten($dark, 15);
+          border-right: 1px solid lighten($dark, 10);
+
+          &:hover {
+            background-color: $dark;
+          }
+
+          &.active {
+            background-color: $dark;
+          }
+        }
+      }
+    }
+    .Nav {
+      color: setColor(lighten($dark, 10));
+      background-color: lighten($dark, 10);
+
+      svg {
+        fill: setColor(lighten($dark, 10));
+      }
+
+      svg:hover {
+        fill: darken($accent, 20);
+        background-color: lighten($dark, 5);
+      }
+
+      .TopNav {
+      }
+
+      .BottomNav {
+      }
+    }
+    .Aside {
+      color: setColor(lighten($dark, 5));
+      background-color: lighten($dark, 5);
+      
+
+      .TopAside {
+        background-color: lighten($dark, 5);
+
+        svg {
+          fill: setColor(lighten($dark, 5));
+
+          &:hover {
+            fill: darken($accent, 20);
+          }
+        }
+      }
+
+      .BottomAside {
+        svg {
+          fill: setColor(lighten($dark, 5));
+        }
+
+        .BottomAsideFolder {
+          &:hover {
+            background-color: lighten($dark, 7.5);
+          }
+        }
+
+        .BottomAsideFile {
+          &:hover {
+            background-color: lighten($dark, 7.5);
+          }
+        }
+      }
+    }
+    .Main {
+      color: setColor($dark);
+      background-color: $dark;
+    }
+    .Footer {
+      color: setColor(lighten($dark, 10));
+      background-color: lighten($dark, 10);
+
+      svg {
+        fill: setColor(lighten($dark, 10));
+      }
+
+      svg:hover {
+        fill: darken($accent, 20);
+      }
+
+      .FooterLeft {
+        color: setColor($accent);
+        background-color: $accent;
+      }
+    }
+  }
+}
+
+@include prefersColorSchemeLight {
+  .Examples {
+    color: setColor($light);
+    background-color: $light;
+
+    .Header {
+      color: setColor(darken($light, 10));
+      background-color: darken($light, 10);
+
+      svg {
+        fill: setColor(darken($light, 10));
+      }
+
+      svg:hover {
+        fill: darken($accent, 20);
+      }
+
+      .HeaderRight {
+        button {
+          color: setColor(darken($light, 15));
+          background-color: darken($light, 15);
+          border-right: 1px solid darken($light, 10);
+
+          &:hover {
+            background-color: $light;
+          }
+
+          &.active {
+            background-color: $light;
+          }
+        }
+      }
+    }
+    .Nav {
+      color: setColor(darken($light, 10));
+      background-color: darken($light, 10);
+
+      svg {
+        fill: setColor(darken($light, 10));
+      }
+
+      svg:hover {
+        fill: darken($accent, 20);
+        background-color: darken($light, 5);
+      }
+
+      .TopNav {
+      }
+
+      .BottomNav {
+      }
+    }
+    .Aside {
+      color: setColor(darken($light, 5));
+      background-color: darken($light, 5);
+
+      .TopAside {
+        background-color: darken($light, 5);
+
+        svg {
+          fill: setColor(darken($light, 5));
+
+          &:hover {
+            fill: darken($accent, 20);
+          }
+        }
+      }
+
+      .BottomAside {
+        svg {
+          fill: setColor(darken($light, 5));
+        }
+
+        .BottomAsideFolder {
+          &:hover {
+            background-color: darken($light, 7.5);
+          }
+        }
+
+        .BottomAsideFile {
+          &:hover {
+            background-color: darken($light, 7.5);
+          }
+        }
+      }
+    }
+    .Main {
+      color: setColor($light);
+      background-color: $light;
+    }
+    .Footer {
+      color: setColor(darken($light, 10));
+      background-color: darken($light, 10);
+
+      svg {
+        fill: setColor(darken($light, 10));
+      }
+
+      svg:hover {
+        fill: darken($accent, 20);
+      }
+
+      .FooterLeft {
+        color: setColor($accent);
+        background-color: $accent;
+      }
+    }
+  }
+}

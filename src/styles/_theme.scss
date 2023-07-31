@@ -1,0 +1,191 @@
+@include prefersColorSchemeDark {
+  body {
+    color: $color-Light;
+    background-color: $color-Secondary;
+
+    .header {
+      background-color: lighten($color-Secondary, 5);
+
+      .navigation ul li a {
+        color: set-color($color-Secondary);
+
+        &:hover {
+          color: set-color(lighten($color-Secondary, 5));
+          background-color: lighten($color-Secondary, 5);
+        }
+      }
+    }
+
+    .main {
+      color: set-color($color-Secondary);
+      background-color: $color-Secondary;
+    }
+
+    .footer {
+      color: set-color(lighten($color-Secondary, 5));
+      background-color: lighten($color-Secondary, 5);
+    }
+
+    // App Styles
+    .Navbar {
+      box-shadow: 0 4px 15px rgba(255, 255, 255, 0.1);
+      background-color: $color-Secondary;
+
+      a {
+        color: $color-Light;
+      }
+      a.active {
+        color: $color-Accent;
+      }
+    }
+
+    .Home a {
+      color: $color-Light;
+      background-color: $color-Secondary;
+
+      &.active {
+        color: red;
+      }
+
+      &:hover {
+        color: set-color($color-Accent);
+        background-color: $color-Accent;
+      }
+    }
+
+    .container {
+      background-color: darken($color-Secondary, 2);
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+
+      .title {
+        border-bottom: 1px solid $color-Dark;
+      }
+
+      .description {
+        border-left: 3px solid $color-Secondary;
+      }
+    }
+
+    .clock {
+      button {
+        color: set-color($color-Secondary);
+        background-color: $color-Secondary;
+
+        &:hover {
+          color: set-color($color-Accent);
+          background-color: $color-Accent;
+        }
+      }
+    }
+
+    .form {
+      button,
+      input,
+      select,
+      textarea {
+        color: $color-Light;
+        background-color: $color-Secondary;
+      }
+
+      fieldset {
+        border: 1px solid $color-Dark;
+      }
+    }
+  }
+}
+
+@include prefersColorSchemeLight {
+  body {
+    color: $color-Dark;
+    background-color: $color-Light;
+
+    .header {
+      background-color: darken($color-Light, 5);
+
+      .navigation ul li a {
+        color: set-color($color-Light);
+
+        &:hover {
+          color: set-color(darken($color-Light, 5));
+          background-color: darken($color-Light, 5);
+        }
+      }
+    }
+
+    .main {
+      color: set-color($color-Light);
+      background-color: $color-Light;
+    }
+
+    .footer {
+      color: set-color(darken($color-Light, 5));
+      background-color: darken($color-Light, 5);
+    }
+
+    // App Styles
+    .Navbar {
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+      background-color: lighten($color-Light, 5);
+
+      a {
+        color: $color-Dark;
+      }
+      a.active {
+        color: $color-Accent;
+      }
+    }
+
+    .Home a {
+      color: set-color($color-Light);
+      background-color: $color-Light;
+
+      &.active {
+        color: red;
+      }
+
+      &:hover {
+        color: set-color($color-Accent);
+        background-color: $color-Accent;
+      }
+    }
+
+    .container {
+      background-color: lighten($color-Light, 5);
+      box-shadow: 0 4px 15px rgba(255, 255, 255, 0.1);
+
+      .title {
+        border-bottom: 1px solid $color-Secondary;
+      }
+
+      .description {
+        border-left: 3px solid $color-Light;
+      }
+    }
+
+    .clock {
+      button {
+        color: set-color($color-Light);
+        background-color: $color-Light;
+
+        &:hover {
+          color: set-color($color-Accent);
+          background-color: $color-Accent;
+        }
+      }
+    }
+
+    .form {
+      button,
+      input,
+      select,
+      textarea {
+        color: set-color($color-Light);
+        background-color: $color-Light;
+      }
+
+      fieldset {
+        border: 1px solid $color-Light;
+      }
+    }
+  }
+}

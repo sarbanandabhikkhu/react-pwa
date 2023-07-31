@@ -1,0 +1,29 @@
+// wide screen
+@include mediaXl {
+}
+
+// desktops and  laptops
+@include mediaLg {
+}
+
+// tablets and small laptops
+@include mediaMd {
+}
+
+// smartphone
+@include mediaSm {
+}
+
+@include mediaPrefers {
+}
+
+@include keyFrames {
+  @keyframes logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+}

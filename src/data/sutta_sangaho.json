@@ -1,0 +1,1723 @@
+[
+  {
+    "tagName": "h1",
+    "attributes": {
+      "classes": "bookname"
+    },
+    "children": null,
+    "innerText": "পরিত্তসুত্তসঙ্গহো"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "॥নমো তস্স ভগৰতো অরহতো সম্মাসম্বুদ্ধস্স॥"
+  },
+  {
+    "tagName": "h2",
+    "attributes": {
+      "classes": "chaptername"
+    },
+    "children": null,
+    "innerText": "ৰন্দনারাধনা পরিচ্ছেদো"
+  },
+  {
+    "tagName": "h3",
+    "attributes": {
+      "classes": "heading"
+    },
+    "children": null,
+    "innerText": "রতনত্তযন ৰন্দনা"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "classes": "centre"
+    },
+    "children": null,
+    "innerText": "বুদ্ধং ৰন্দামি,"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "classes": "centre"
+    },
+    "children": null,
+    "innerText": "ধম্মং ৰন্দামি,"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "classes": "centre"
+    },
+    "children": null,
+    "innerText": "সঙ্ঘং ৰন্দামি,"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "classes": "centre"
+    },
+    "children": null,
+    "innerText": "অহং ৰন্দামি সব্বদা। (দুতিযম্পি...ততিযম্পি)।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": {
+      "tagName": "b",
+      "attributes": "translation",
+      "startIndex": 0,
+      "endIndex": 0
+    },
+    "innerText": "বঙ্গানুবাদ: আমি সর্বদা বুদ্ধকে বন্দনা করছি, ধর্মকে বন্দনা করছি, সঙ্ঘকে বন্দনা করছি। (দ্বিতীয়বার...তৃতীয়বার)।"
+  },
+  {
+    "tagName": "h3",
+    "attributes": {
+      "classes": "heading"
+    },
+    "children": null,
+    "innerText": "রতনত্তযন ৰন্দনা (গাথা)"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "১. যো সন্নিসিন্নো ৰরৰোধিমূলে,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "মারং সসেনং মহতিং ৰিজেত্বা,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "সম্বোধিমাগঞ্ছি অনন্তঞাণো,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "লোকুত্তমো তং পণমামি বুদ্ধং।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "২. অট্ঠঙ্গিকো অরিযোপথো জনানং,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "মোক্খপ্পৰেসো উজুকো’ৰ মগ্গো।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "ধম্মো অযং সন্তিকরো পণীতো,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "নিয্যানিকো তং পণমামি ধম্মং।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "৩. সঙ্ঘোৰিসুদ্ধো ৰরদক্খিণেয্যো,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "সন্তিন্দ্রিযো সব্বমলপ্পহীনো।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "গুণেহি নেকেহি সমিদ্ধিপ্পত্তো,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "অনাসৰো তং পণমামি সঙ্ঘং।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "বঙ্গানুবাদ:"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "১. যিনি শ্রেষ্ঠ বোধিবৃক্ষমূলে বসে সসৈন্য মারকে পরাজিত করে মহান সম্বোধি লাভ করেছেন, অনন্ত জ্ঞানী জগতশ্রেষ্ঠ সেই সম্বুুদ্ধকে আমি বন্দনা করছি।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "২. অষ্টাঙ্গিক মার্গই হচ্ছে মানুষের একমাত্র আর্যপথ যা নির্বাণে প্রবেশের সোজা রাস্তাস্বরূপ, শান্তিকর এই ধর্ম অতি উত্তম, নির্বাণের দিকে নিয়ে যায়, সেই ধর্মকে আমি বন্দনা করছি।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "৩. যেই সঙ্ঘ বিশুদ্ধ, দান গ্রহণের উত্তম পাত্র, শান্তেন্দ্রিয়, সকল প্রকার পাপমল বিহীন, অনেক প্রকার গুণে সমৃদ্ধিপ্রাপ্ত ও আসক্তি বিহীন, সেই সঙ্ঘকে আমি বন্দনা করছি।"
+  },
+  {
+    "tagName": "h3",
+    "attributes": {
+      "classes": "heading"
+    },
+    "children": null,
+    "innerText": "বুদ্ধনৰগুণ ৰন্দনা (বুদ্ধানুস্সতি)"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "ইতিপি সো ভগৰা অরহং সম্মাসম্বুদ্ধো ৰিজ্জাচরণসম্পন্নো সুগতো লোকৰিদূ অনুত্তরো পুরিসদম্মসারথি সত্থা দেৰমনুস্সানং বুদ্ধো ভগৰা’তি।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "বঙ্গানুবাদ: ইনিই সেই ভগবান, যিনি অর্হৎ, সম্যকসম্বুদ্ধ, বিদ্যাচরণসম্পন্ন, সুগত, লোকজ্ঞানী, অনুত্তর পুরুষদমনকারী সারথী, দেবমানবের শাস্তা, বুদ্ধ ও ভগবান।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "১. বুদ্ধং যাৰ পরিনিব্বাণং পরিযন্তং(১) সরণং গচ্ছামি।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "২. যে চ বুদ্ধা অতীতা চ যে চ বুদ্ধা অনাগতা,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "পচ্চুপ্পন্না চ যে বুদ্ধা অহং ৰন্দামি সব্বদা।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "৩. নত্থি মে সরণং অঞ্ঞং বুদ্ধো মে সরণং ৰরং,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "এতেন সচ্চৰজ্জেন হোতু মে জযমঙ্গলং।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "৪. উত্তমঙ্গেন বন্দেহং পাদপংসু ৰুরুত্তমং,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "বুদ্ধে যো খলিতো দোসো বুদ্ধো খমতু তং মমং॥"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "বঙ্গানুবাদ:"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "১. আমি যাবজ্জীবনের জন্য বুদ্ধের শরণ গ্রহণ করছি।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "২. যেই বুদ্ধগণ অতীত হয়েছেন, যেই বুদ্ধগণ আসবেন এবং যেই বুদ্ধগণ বর্তমানে আছেন, আমি তাঁদেরকে সর্বদা বন্দনা করছি।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "৩. আমার অন্য কোন শরণ নেই, বুদ্ধই আমার শ্রেষ্ঠ শরণ, এই সত্য বাক্যের দ্বারা আমার জয় হোক, মঙ্গল হোক।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "৪. সর্বজ্ঞ বুদ্ধের উত্তম শ্রীপাদে আমি নতশিরে বন্দনা করছি। হে বুদ্ধ, অজ্ঞানতাবশত আমার দোষ হয়ে থাকলে, আপনি তা আমাকে ক্ষমা করুন।   "
+  },
+  {
+    "tagName": "h3",
+    "attributes": {
+      "classes": "heading"
+    },
+    "children": null,
+    "innerText": "ধম্মছগুণ ৰন্দনা (ধম্মানুস্সতি)"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "স্বাক্খাতো ভগৰতা ধম্মো সন্দিট্ঠিকো অকালিকো এহিপস্সিকো ওপনেয্যিকো পচ্চত্তং ৰেদিতব্বো ৰিঞ্ঞূহী’তি।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "বঙ্গানুবাদ: ভগবান কর্তৃক ধর্ম সুব্যাখ্যাত, স্বয়ং দর্শনযোগ্য, ফল প্রদানে কালাকাল বিহীন, “এসো, দেখ” বলার যোগ্য, নির্বাণে উপনয়নকারী, বিজ্ঞজন কতৃক স্বীয় প্রচেষ্টায় জ্ঞাতব্য।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "১. ধম্মং যাৰ পরিনিব্বাণং পরিযন্তং সরণং গচ্ছামি;"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "২. যে চ ধম্মা অতীতা চ যে চ ধম্মা অনাগতা,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "পচ্চুপ্পন্না চ যে ধম্মা অহং ৰন্দামি সব্বদা।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "৩. নত্থি মে সরণং অঞ্ঞং ধম্মো মে সরণং ৰরং,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "এতেন সচ্চৰজ্জেন হোতু মে জযমঙ্গলং।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "৪. উত্তমঙ্গেন বন্দেহং ধম্মঞ্চ তিৰিধং ৰরং,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "ধম্মো যো খলিতো দোসো ধম্মো খমতু তং মমং॥"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "বঙ্গানুবাদ: "
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "১. আমি যাবজ্জীবনের জন্য ধর্মের শরণ গ্রহণ করছি।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "২. যেই নব লোকোত্তর ধর্ম অতীতে ছিল, ভবিষ্যতে থাকবে এবং বর্তমান আছে, সেই ধর্মকে আমি সর্বদা বন্দনা করছি।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "৩. আমার অন্য কোন শরণ নেই, ধর্মই আমার শ্রেষ্ঠ শরণ, এই সত্য বাক্যের দ্বারা আমার জয় হোক, মঙ্গল হোক।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "৪. পরিয়ত্তি, প্রতিপত্তি, প্রতিবেধ— এই ত্রিবিধ ধর্মকে আমি নতশিরে বন্দনা করছি। হে ধর্ম, অজ্ঞানতাবশত আমার দোষ হয়ে থাকলে, তা আমাকে ক্ষমা করুন।   "
+  },
+  {
+    "tagName": "h3",
+    "attributes": {
+      "classes": "heading"
+    },
+    "children": null,
+    "innerText": "সঙ্ঘনৰগুণ ৰন্দনা (সঙ্ঘানুস্সতি)"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "সুপ্পটিপন্নো ভগৰতো সাৰকসঙ্ঘো, উজুপ্পটিপন্নো ভগৰতো সাৰকসঙ্ঘো, ঞাযপ্পটিপন্নো ভগৰতো সাৰকসঙ্ঘো, সামীচিপ্পটিপন্নো ভগৰতো সাৰকসঙ্ঘো, যদিদং চত্তারি পুরিসযুগানি অট্ঠ পুরিসপুগ্গলা এস ভগৰতো সাৰকসঙ্ঘো আহুনেয্যো, পাহুনেয্যো, দক্খিণেয্যো, অঞ্জলিকরণীযো, অনুত্তরং পুঞ্ঞক্খেত্তং লোকস্সা’তি।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "বঙ্গানুবাদ: ভগবানের শ্রাবকসংঘ সুপথে গমনকারী, সোজাপথে গমনকারী, ন্যায়পথে গমনকারী, সমীচীন পথে গমনকারী, এই যে মার্গ ও ফল ভেদে চারি যুগল করে আটজন ব্যক্তিই ভগবানের সেই শ্রাবকসংঘ, যাঁরাই আহুতি লাভের যোগ্য, আতিথেয়তা লাভের যোগ্য, দক্ষিণা লাভের যোগ্য, অঞ্জলিবদ্ধ নমস্কার পাবার যোগ্য এবং জগতে অনুত্তর পুণ্যক্ষেত্র।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "১. সঙ্ঘং যাৰ পরিনিব্বাণং পরিযন্তং সরণং গচ্ছামি;"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "২. যে চ সঙ্ঘা অতীতা চ যে চ সঙ্ঘা অনাগতা,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "পচ্চুপ্পন্না চ যে সঙ্ঘা অহং ৰন্দামি সব্বদা।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "৩. নত্থি মে সরণং অঞ্ঞং সঙ্ঘো মে সরণং ৰরং,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "এতেন সচ্চৰজ্জেন হোতু মে জযমঙ্গলং।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "৪. উত্তমঙ্গেন বন্দেহং সঙ্ঘঞ্চ দ্বিৰিধুত্তমং,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "সঙ্ঘো যো খলিতো দোসো সঙ্ঘো খমতু তং মম’ন্তি॥"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "বঙ্গানুবাদ:"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "১. আমি যাবজ্জীবনের জন্য সংঘের শরণ গ্রহণ করছি।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "২. যেই সংঘ অতীতে ছিলেন, যেই সংঘ ভবিষ্যতে থাকবেন এবং যেই সংঘ বর্তমানে আছেন, আমি সেই সংঘকে সর্বদা বন্দনা করি।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "৩. আমার অন্য কোন শরণ নেই, সংঘই আমার শ্রেষ্ঠ শরণ, এই সত্য বাক্যের দ্বারা আমার জয় হোক, মঙ্গল হোক।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "৪. সম্মুতি সংঘ ও পরমার্থ সংঘ— এই দ্বিবিধ সংঘকে আমি নতশিরে বন্দনা করছি। হে সংঘ, অজ্ঞানতাবশত আমার দোষ হয়ে থাকলে, আপনারা তা আমাকে ক্ষমা করুন।"
+  },
+  {
+    "tagName": "h3",
+    "attributes": {
+      "classes": "heading"
+    },
+    "children": null,
+    "innerText": "অট্ঠৰীসতিবুদ্ধ ৰন্দনা"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "তণ্হঙ্করো মহাৰীরো, মেধাঙ্করো মহাযসো,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "সরণঙ্করো লোকহিতো, দীপঙ্করো জুতিন্ধরো।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "কোণ্ডঞ্ঞো জনপামোক্খো, মঙ্গলো পুরিসাসভো,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "সুমনো সুমনো ধীরো, রেৰতো রতিৰদ্ধনো।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "সোভিতো গুণসম্পন্নো, অনোমদস্সী জনুত্তমো,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "পদুমো লোকপজ্জোতো, নারদো ৰরসারথি।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "পদুমুত্তরো সত্তসারো, সুমেধো অগ্গপুগ্গলো,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "সুজাতো সব্বলোকগ্গো, পিযদস্সী নরাসভো।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "অথদস্সী কারুণিকো, ধম্মদস্সী তমোনুদো,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "সিদ্ধত্থো অসমো লোকে, তিস্সো ৰরদসংৰরো।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "ফুস্সো ৰরদসম্বুদ্ধো, ৰিপস্সী চ অনুপমো,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "সিখি সব্বহিতো সত্থা, ৰেস্সভূ সুখদাযকো।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "ককুসন্ধো সত্থবাহো, কোণাগমনো রনঞ্জহো,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "কস্সপো সিরিসম্পন্নো, গোতমো সক্যপুঙ্গৰো।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "অট্ঠৰীসতী’মে বুদ্ধা, নিব্বানমতদাযকা,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "নমামি সিরসা নিচ্চং, তে মে রক্খন্তু সব্বদা’তি।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "বঙ্গানুবাদ:"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "মহাবীর তৃষ্ণাঙ্কর, মহাযশস্বী মেধাঙ্কর,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "লোকহিতৈষী শরণঙ্কর, জ্যোতিধারী দীপঙ্কর।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "জনশ্রেষ্ঠ কৌণ্ডণ্য, পুরুষার্ষভ মঙ্গল,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "ধীর সুমন সুমন, রতিবর্দ্ধক রেবত।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "গুণসম্পন্ন শোভিত, জনোত্তম অনোমদর্শী,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "লোকরঞ্জক পদুম, বরসারথী নারদ।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "সত্ত্বসার পদুমুত্তর, শ্রেষ্ঠ পুদ্গল সুমেধ,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "লোকজৈষ্ঠ্য সুজাত, নরার্ষভ প্রিয়দর্শী।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "সর্বলোকশ্রেষ্ঠ ফুস্স, অনুপম বিপস্বী,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "সর্বহিতকারী শিখী, সুখদায়ক বেস্যভূ।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "সার্থবাহক ককুসন্ধ, রণত্যাগী কোণাগমন,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "শ্রীসম্পন্ন কশ্যপ ও শাক্যপুঙ্গব গৌতম।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "এই অষ্টবিংশতি সম্যকসম্বুদ্ধ নির্বাণামৃত প্রদানকারী,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "আমি তাঁদেরকে নতশিরে বন্দনা করছি,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "তাঁরা আমাকে সর্বদা রক্ষা করুন।  "
+  },
+  {
+    "tagName": "h3",
+    "attributes": {
+      "classes": "heading"
+    },
+    "children": null,
+    "innerText": "আচরিযুপজ্ঝাযপচ্চেকবুদ্ধ ৰন্দনা"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "১. বুদ্ধা ধম্মা চ পচ্চেকবুদ্ধা সঙ্ঘা চ সামিকা,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "দাসো’ৰহমস্মি মে তেসং, গুণং ঠাতু সিরে সদা।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "২. তিসরণং তিলক্খণুপেক্খং নিব্বাণং অন্তিমং সুখং,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "সুৰন্দে সিরসা নিচ্চং, লভামি তিৰিধং অহং।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "৩. তিসরণঞ্চ সিরে ঠাতু সিরে ঠাতু তিলক্খণং,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "উপেক্খা চ সিরে ঠাতু, নিব্বাণং ঠাতু মে সিরে।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "৪. বুদ্ধে সকরুণে ৰন্দে ধম্মে পচ্চেক সমুদ্ধে,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "সঙ্ঘে চ সিরসা যেৰ তিধা নিচ্চং নমাম্যহং।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "৫. নমামি সত্থুনো ওৰাদ-অপ্পমাদ ৰচনং অন্তিমং,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "সব্বেপি চেতিযে ৰন্দে উপজ্ঝাযাচরিযে মমং;"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "ময্হং পণাম তেজেন চিত্তং পাপেহি মুঞ্চতূ’তি॥"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "বঙ্গানুবাদ:"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "১. সম্যক সম্বুদ্ধ ও পচ্চেক বুদ্ধ, ধর্ম ও সঙ্ঘ আমার প্রভূ, আমি তাঁদের দাস, তাঁদের গুণাবলী সর্বদা আমার শিরোপরি স্থাপিত হোক।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "২. ত্রিশরণ, ত্রিলক্ষণ-উপেক্ষা ও অন্তিমে নির্বাণ এই তিন প্রকার সুখ যেন আমি লাভ করি, নিত্য নতশিরে বন্দনা করছি।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "৩. ত্রিশরণ, ত্রিলক্ষণ, উপেক্ষা ও নির্বাণ আমার শিরে প্রতিষ্ঠিত হোক।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "৪. বুদ্ধ, ধর্ম ও সঙ্ঘ— এই তিন করুণাধারে নতশিরে নিত্য বন্দনা করছি।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "৫. তথাগতের উপদেশ ও অপ্রমাদপূর্ণ অন্তিম বাক্যকে আমি বন্দনা করছি। সমস্ত চৈত্য এবং আমার উপাধ্যায় ও আচার্যগণকে বন্দনা করছি। এই বন্দনার প্রভাবে আমার চিত্ত কলুষমুক্ত হোক।"
+  },
+  {
+    "tagName": "h3",
+    "attributes": {
+      "classes": "heading"
+    },
+    "children": null,
+    "innerText": "তিচেতিয ৰন্দনা"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "বন্দামি চেতিযং সব্বং, সব্বট্ঠানেসু পতিট্ঠিতং,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "সারীরিকধাতুং মহাৰোধিং, বুদ্ধরূপং সকলং সদা।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "বঙ্গানুবাদ:"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "সকল স্থানে প্রতিষ্ঠিত বুদ্ধের শারীরিক ধাতু, মহাবোধিবৃক্ষ ও সমস্ত বুদ্ধরূপকে আমি সর্বদা বন্দনা করছি।"
+  },
+  {
+    "tagName": "h3",
+    "attributes": {
+      "classes": "heading"
+    },
+    "children": null,
+    "innerText": "সত্তমহাঠান ৰন্দনা"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "পঠমং বোধিপল্লঙ্কং, দুতিযং অনিমিসম্পি চ,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "ততিযং চঙ্কমচেতিযং, চতুত্থং রতনঘরং।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "পঞ্চমং অজপালঞ্চ, মুচলিন্দঞ্চ ছট্ঠমং,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "সত্তমং রাজাযতনং, ৰন্দে তং বোধিপাদপং।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "বঙ্গানুবাদ:"
+  },
+  {
+    "tagName": "h3",
+    "attributes": {
+      "classes": "heading"
+    },
+    "children": null,
+    "innerText": "বোধিরুক্খ ৰন্দনা"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "১. যস্স মূলে নিসিন্নোৰ সব্বারি ৰিজযং অকা,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "পত্তো সব্বঞ্ঞুতং সত্থা বন্দে তং ৰোধিপাদপং।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "২. ইমে এতে মহাৰোধি লোকনাথেন পুজিতা,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "অহম্পি তে নমস্সামি ৰোধিরাজা নমত্থু তে।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "বঙ্গানুবাদ:"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "১. যে বোধিবৃক্ষমূলে বসে শাস্তা সর্ববিধ অরিসমূহকে পরাস্ত করে সর্বজ্ঞতা প্রাপ্ত হয়েছিলেন, সেই বোধিবৃক্ষকে আমি বন্দনা করছি।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "২. এই মহাবোধিবৃক্ষ লোকনাথ বুদ্ধ কর্তৃক পূজিত, আমিও সেই বোধিবৃক্ষকে বন্দনা করছি। হে বোধিরাজ, তোমায় বন্দনা।"
+  },
+  {
+    "tagName": "h3",
+    "attributes": {
+      "classes": "heading"
+    },
+    "children": null,
+    "innerText": "চত্তারি দন্তধাতু ৰন্দনা"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "একা দাঠা তিদসপুরে, একা নাগপুরে আহু,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "একা গন্ধার ৰিসযে, একাসি পুন সীহলে।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "চতস্সো তা মহাদাঠা, নিব্বাণরসদীপিকা,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "পূজিতা নরদেৰেহি, তা'পি বন্দামি ধাতুযো।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "বঙ্গানুবাদ:"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "ভগবান বুদ্ধের একটি দন্ত স্বর্গের ত্রিদশালয়ে, একটি নাগলোকে, একটি গান্ধার রাজ্যে, আরেকটি সিংহলদ্বীপে (শ্রীলংকা) রয়েছে। নির্বাণ রসোদ্দীপক এই চারিটি মহাদন্ত দেব-মানবের দ্বারা পূজিত হয়। আমিও সেই দন্তধাতু চতুষ্টয়কে বন্দনা করছি।"
+  },
+  {
+    "tagName": "h3",
+    "attributes": {
+      "classes": "heading"
+    },
+    "children": null,
+    "innerText": "অগ্গসাৰকা ৰন্দনা"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "১. বুদ্ধত্তনে মুনিন্দস্স আসুং যে অগ্গসাৰকা"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "মহোদধী’ৰ গম্ভীরা সেলা’ৰ অচলা সদা"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "চন্দো’ৰ ৰিমলা সুদ্ধা তেজৰন্তা’ৰ সূরিযো"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "পারগূ সব্বধম্মানং কতকিচ্চা অনাসৰা"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "সারিপুত্ত-মোগ্গল্লানা নামধেয্যা মহাযতী"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "বন্দে সারীরিকং তেসং জনমানিত-পূজিতং।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "২. দস্সেসি মগ্গমরিযং জনতং সদা যো"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "পঞ্ঞাপদীপ জুতিযা তিমিরং হনন্তো"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "ঞাণীনমগ্গতগতো সুগতানূসারী"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "সো মঙ্গলং ৰিদহতং ৰর-সারিপুত্তো।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "৩. ইদ্ধিং ৰিধেত্বা ৰিৰিধং সুৰিধংসযন্তো"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "দিট্ঠিগতানি পন যো করুণায সত্তে"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "মোচেসি ইদ্ধিমতমগ্গপদস্সলাভী"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "সো মঙ্গলং ৰিদহতং ৰর-মোগ্গল্লানো।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "বঙ্গানুবাদ:"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "১. মুনীন্দ্র বুদ্ধের যে দুইজন অগ্রশ্রাবক শিষ্য ছিলেন, যাঁরা মহাসমুদ্রের ন্যায় গম্ভীর, পর্বতের ন্যায় অচল, চন্দ্রের ন্যায় বিমল শুদ্ধ ও মার্তণ্ডের ন্যায় দীপ্তিমান এবং সর্বধর্মে যাঁরা পারদর্শী, কৃতকৃত্য এবং তৃষ্ণামুক্ত সারীপুত্র ও মৌদ্গল্যায়ন নামক সেই মহাযতিদ্বয়ের বহুজন পূজিত শারীরিক ধাতুকে আমি বন্দনা করছি।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "২. যিনি প্রজ্ঞার আলোকে তিমির রাশি হনন করে সর্বদা জনগণকে শ্রেষ্ঠ আর্যমার্গ প্রদর্শন করেছেন এবং যিনি জ্ঞানীশ্রেষ্ঠ ও সুগতপন্থী সেই যতিশ্রেষ্ঠ সারীপুত্র জগতের অনন্ত কল্যাণ সাধন করেছেন।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "৩. প্রচুর ঋদ্ধিশক্তির অধিকারী হয়ে যিনি করুণা সহগত চিত্তে প্রাণিদের বিবিধ মিথ্যাদৃষ্টি অপনোদন করে বহু প্রাণিকে দুঃখমুক্ত করেছেন, ঋদ্ধিশ্রেষ্ঠ পদলাভী মৌদ্গল্যায়ন জগতের বিবিধ মঙ্গল বিধান করেছেন।"
+  },
+  {
+    "tagName": "h3",
+    "attributes": {
+      "classes": "heading"
+    },
+    "children": null,
+    "innerText": "সীবলীত্থেরো ৰন্দনা"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "সীবলী যং মহাথেরো লাভীনং সেট্ঠতং গতো মহন্তং পুঞ্ঞাৰন্তং তং অভিবন্দামি সব্বদা।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "বঙ্গানুবাদ:"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "লাভী শ্রেষ্ঠ মহাপুণ্যবান সীবলী মহাথেরকে সর্বদা বন্দনা করছি।"
+  },
+  {
+    "tagName": "h3",
+    "attributes": {
+      "classes": "heading"
+    },
+    "children": null,
+    "innerText": "উপগুত্তত্থেরো ৰন্দনা"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "ইদ্ধিমন্তো জোতিমন্তো মহামারং পমদ্দনো,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "সাসনো রক্খিতো সন্তো কপ্পকালো অধিট্ঠিতো।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "লোকালযং ৰজ্জেত্বা মহাসমুদ্দে ৰসিতো মুণি,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "তং উপগুত্তং পূজিত্বা অহং বন্দামি সব্বদা।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "ইদং পূজং অনুমোদিত্বা থেরো মহাকারুণিকো,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "সব্ব মারং অন্তরাযং পমদ্দন্তো’তি।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "বঙ্গানুবাদ:"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "সেই ঋদ্ধিমান, জ্যোতিমান, মার দমনকারী, বুদ্ধের শাসন রক্ষার তরে কল্পকাল অধিষ্ঠানকারী, লোকালয় বর্জন করে মহাসমুদ্রে অবস্থানকারী মুনি উপগুপ্ত থেরকে পূজা প্রকরণে সর্বদা বন্দনা করছি। এই পূজা অনুমোদন করে থের মহাকারুণিক আমাকে সকল প্রকার মারের অন্তরায় থেকে মুক্ত রাখুন।"
+  },
+  {
+    "tagName": "h3",
+    "attributes": {
+      "classes": "heading"
+    },
+    "children": null,
+    "innerText": "অরিযসাৰকো ৰনভন্তে ৰন্দনা"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "অপ্পমত্তো সতিমন্তো পুরিসো দুল্লভো,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "বুদ্ধোপুত্তো ৰনভন্তে অরিয পুগ্গলো।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "গহণ অরঞ্ঞে ৰিহারিং দ্বাদস-ৰস্সানি,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "ধুতাঙ্গ সীল-ৰিমলা দীঘ একচারিং।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "অসেস দুক্খরো মুণি বুদ্ধঞাণ লাভিং,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "তস্স রক্ত-কমল পদে সিরসা নমামি।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "বঙ্গানুবাদ:"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "অপ্রমত্ত স্মৃতিমান দুর্লভ পুরুষ যিনি,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "আর্যপুত্র বনভন্তে বুদ্ধপুত্র তিনি।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "গহন অরণ্যে করেন যাপন দ্বাদশবর্ষ,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "দীর্ঘকাল একাকী ধুতাঙ্গশীলে পরিশুদ্ধ।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "অশেষ দুষ্কর সাধক, মুনি লভেন বুদ্ধজ্ঞান,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "তাঁর শ্রীপাদ কমলে জানাই নতশিরে প্রণাম।"
+  },
+  {
+    "tagName": "h3",
+    "attributes": {
+      "classes": "heading"
+    },
+    "children": null,
+    "innerText": "ভিক্ষু ৰন্দনা"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "ওকাস ৰন্দামি ভন্তে (সঙ্ঘো(২)), দ্বারত্তযেন কতং সব্বং অপরাধং খমতু মে ভন্তে (সঙ্ঘো)। (দুতিযম্পি... ততিযম্পি...)।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "বঙ্গানুবাদ: ভন্তে অবকাশ করুন, আমি আপনাকে বন্দনা করছি। ত্রিবিধ দ্বারে কৃত আমার সমস্ত অপরাধ ক্ষমা করুন। (দ্বিতীয়বার... তৃতীয়বার...)।"
+  },
+  {
+    "tagName": "h3",
+    "attributes": {
+      "classes": "heading"
+    },
+    "children": null,
+    "innerText": "মাতু ৰন্দনা"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "কত্বান কাযে রুধিরং খীরং যা সিনেহপূরিতং,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "পাযেত্বা মং সংবড্ঢেসি ৰন্দে তং মাতরং মমং।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "বঙ্গানুবাদ:"
+  },
+  {
+    "tagName": "h3",
+    "attributes": {
+      "classes": "heading"
+    },
+    "children": null,
+    "innerText": "পিতু ৰন্দনা"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "দদায পরিপুণ্ণোৰ জনকো যো পিতা মম,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "পোসেসি ৰুদ্ধিং কারেসি ৰন্দে তং পিতরং মম।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "বঙ্গানুবাদ:"
+  },
+  {
+    "tagName": "h3",
+    "attributes": {
+      "classes": "heading"
+    },
+    "children": null,
+    "innerText": "আরাধনা খমা"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "তিরতনেসু কাযেন, ৰাচায মনসাপি চ,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "পমাদেন কতং ভন্তে, সব্বং দোসং খমন্তু মে।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "তেসু কতঞ্জলি কম্মস্সানুভাৰেন সব্বদা,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "অজ্বত্তিকা চ ৰহিদ্ধা রোগা ছন্নৰুতি ৰিধা।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "ৰত্তিংস কম্মরণা পঞ্চৰীসতি ভেরৰা,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "সোলসুপদ্দৰা চাপি দণ্ডং দোসা দসাট্ঠা চ।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "পঞ্চ ৰেরানি চত্তারো অপাযা চ তযোপি চ,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "কপ্পা চ ইতি সব্বেতে ৰিনস্সান্তু অসেসতো।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "ইচ্ছিতং পথিতং চাপি খিপ্পমেৰ সমিজ্ঝতু,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "দীঘঞ্চ হোতু মে আযু সংসারে সব্বজাতিসু।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "অনাগতে হি মেত্তেয্য সত্থুনো দস্সনং ৰরং,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "সৰেয্যাকরণং লদ্ধো নিব্বাণং পাপুনিস্সাহং।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "বঙ্গানুবাদ:"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "তিরতন কাছে কায়-বাক্য-মনো যাহা,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "ভ্রমে করিয়াছি পাপ ক্ষম প্রভু তাহা।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "নিত্য তিনে কৃতাঞ্জলি কর্মের প্রভাবে,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "অন্তরে বাহিরে রোগ ছিয়ানব্বই ভবে।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "বত্রিশ কায়িক শাস্তি, ভয় পঞ্চবিংশ,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "উপদ্রব ষোল, দশদণ্ড, অষ্ট দোষ।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "পঞ্চ বৈরী, চতুর অপায় আর কল্পত্রয়,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "এসব নিঃশেষরূপে যেন নষ্ট হয়।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "মানসের আশা মোর পূর্ণ সত্ত্বরে,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "দীর্ঘ আয়ু হই যেন জন্ম-জন্মান্তরে।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "অনাগতে মৈত্রীবুদ্ধ করি দর্শন,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "ধর্ম শুনি মোক্ষ লাভ করিব তখন।"
+  },
+  {
+    "tagName": "h3",
+    "attributes": {
+      "classes": "heading"
+    },
+    "children": null,
+    "innerText": "আসিৰাদ গাথা"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "ইচ্ছিতং পত্থিতং তুয্হং, সব্বমেৰ (ধ.প.অট্ঠ.২.১) সমিজ্ঝতু,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "পূরেন্তু চিত্তসঙ্কপ্পা, চন্দো পণ্ণরসো যথা।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "ইচ্ছিতং পত্থিতং তুয্হং, খিপ্পমেৰ সমিজ্ঝতু,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "পূরেন্তু চিত্তসঙ্কপ্পা, মণিজোতিরসো যথা।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "অভিৰাদনসীলস্স (ধ.প.অট্ঠ.৮), নিচ্চং বুড্ঢাপচাযিনো,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "চত্তারো ধম্মা ৰড্ঢন্তি, আযু ৰণ্ণো সুখং বলং।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "আযুরারোগ্যসম্পত্তি(৩), সগ্গসম্পত্তিমেৰ চ,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "অথোপি নিব্বাণসম্পত্তি ইমিনা তে সমিজ্ঝতূ'তি।"
+  },
+  {
+    "tagName": "h3",
+    "attributes": {
+      "classes": "heading"
+    },
+    "children": null,
+    "innerText": "মেত্তা ভাবনা"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "১. অহং অৰেরো হোমি, অব্যাপজ্ঝো হোমি, অনীঘো হোমি, সুখী অত্তানং পরিহরামি, অহং ৰিয মযহং আচরিযুপজ্ঝায, মাতা-পিতরো, হিতসত্তা, মজ্ঝত্তিকসত্তা, ৰেরীসত্তা অৰেরা হোন্তু, অব্যাপজ্বা হোন্তু, অনীঘা হোন্তু, সুখী অত্তানং পরিহরন্তু; দুক্খা মুঞ্চন্তু, যথালব্ধ সম্পত্তিতো মা ৰিগচ্ছন্তু কম্মস্সকা।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "২. ইমস্মিং ৰিহারে, ইমস্মিং গোচরগামে, ইমস্মিং নগরে, ইমস্মিং ইমস্মিং ৰঙ্গদেসে, ইমস্মিং জম্বুদ্বীপে, ইমস্মিং পঠৰীযং, ইমস্মিং চক্কৰালে, ইস্সরজনা সীমট্ঠক দেৰতা, সব্বেসত্তা অৰেরা হোন্তু, অব্যাপজ্ঝা হোন্তু, অনীঘা হোন্তু, সুখী অত্তানং পরিহরন্তু; দুক্খা মুঞ্চন্তু যথালব্ধ সম্পত্তিতো মা ৰিগচ্ছন্তু কম্মস্সকা।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "৩. পুরত্থিমায দিসায, দখিণায় দিসায, পচ্ছিমায দিসায, উত্তরায় দিসায, পুরত্থিমায অনুদিসায, দক্খিণায অনুদিসায, পচ্ছিমায অনুদিসায, উত্তরায় অনুদিসায, হেট্ঠিমায দিসায, উপরিমায় দিসায, সব্বেসত্তা, সব্বেপাণা, সব্বেভূতা, সব্বেপুগ্গলা, সব্বে-অত্তভাব পরিযাপন্না, সব্বা-ইত্থিযো, সব্বেপুরিসা, সব্বে-অরিযা, সব্বে-অনারিয়া, সব্বেদেবা, সব্বেমনুস্সা, সব্বে-অমনুস্সা, সব্বে ৰিনিপাতিকা অৰেরা হোন্তু, অব্যাপজ্ঝা হোন্তু, অনীঘা হোন্তু, সুখী অত্তানং পরিহরন্তু; দুক্খা মুঞ্চন্তু যথালব্ধ সম্পত্তিতো মা ৰিগচ্ছন্তু কম্মস্সকা।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "৪. পুরত্থিমস্মিং দিসাভাগে, সন্তি ভূতা মহিদ্ধিকা,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "তেপি তুম্হে অনুরক্খন্তু, আরোগ্যেন সুখেন চ।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "৫. দক্খিণস্মিং দিসাভাগে, সন্তি দেৰা মহিদ্ধিকা,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "তেপি তুম্হে অনুরক্খন্তু, আরোগ্যেন সুখেন চ।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "৬. পচ্ছিমস্মিং দিসাভাগে, সন্তি নাগা মহিদ্ধিকা,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "তেপি তুম্হে অনুরক্খন্তু, আরোগ্যেন সুখেন চ।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "৭. উত্তরস্মিং দিসাভাগে, সন্তি যক্খা মহিদ্ধিকা,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "তেপি তুম্হে অনুরখন্তু আরোগ্যেন সুখেন চ।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "৮. পুরত্থিমেন ধতরট্ঠো, দক্খিণেন ৰিরূল্হকো,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "পচ্ছিমেন ৰিরূপক্খো, কুৰেরো উত্তরং দিসং।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "চত্তারো তে মহারাজা, লোকপালা যসস্সিনো,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "তেপি তুম্হে অনুরক্খন্তু, আরোগ্যেন সুখেন চ।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "৯. আকাসট্ঠা চ ভূম্মট্ঠা, দেৰ-নাগা মহিদ্ধিকা,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "তেপি তুম্হে অনুরক্খন্তু, আরোগ্যেন সুখেন চ।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "১০. ইদ্ধিমন্তা চ যে দেৰা, ৰসন্তা ইধ সাসনে,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "তেপি তুম্হে অনুরক্খ, আরোগ্যেন সুখেন চ।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "১১. নক্খত্ত যক্খ ভূতানং পাপগ্গহ নিৰারণা,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "পরিত্তাস্সানুভাবেন হোন্তু তেসং উপদ্দৰে,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "১২. চত্তারো চ মহারাজা সক্কো চাপি সুরাপরে,"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "অনুমোদিত্বা ইমং পুঞ্ঞং চিরং রক্খন্তু সদ্ধম্মং সাসনন্তি।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "বঙ্গানুবাদ:"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "১. আমি শত্রুহীন, বিপদহীন ও নিরোগী হয়ে যেন সুখে বাস করি। আমার ন্যায় আমার আচার্য-উপাধ্যায়, মাতা-পিতা, হিতৈষী (হিতকামী), শত্রু-মিত্র ব্যতিত অপর (মধ্যস্থ) জন ও আমার শত্রুজন (অকল্যাণকামী), শত্রুহীন, বিপদহীন ও নিরোগী হয়ে যেন সুখে বাস করুক, দুঃখ থকে মুক্ত হোক, কর্মাধীন প্রাণিগণ যথালব্ধ সম্পত্তি থেকে বঞ্চিত না হোক। "
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "২. এই বিহারে, এই দৃষ্টিগোচর গ্রামে, এই নগরে, এই জনপদে, এই বাংলাদেশে, এই জম্বুদ্বীপে, এই পৃথিবীতে, এই চক্রবালে যে সমস্ত প্রভুত্বশালী ব্যক্তি এবং সীমান্ত রক্ষাকারী দেবতা আছেন; সকল প্রাণি শত্রুহীন, বিপদহীন ও নিরোগী হয়ে যেন সুখে বাস করুক, দুঃখ থকে মুক্ত হোক, কর্মাধীন প্রাণিগণ যথালব্ধ সম্পত্তি থেকে বঞ্চিত না হোক।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "৩. পূর্বদিকে, দক্ষিণদিকে, পশ্চিমদিকে, উত্তরদিকে, পূর্বকোণে, দক্ষিণকোণে, পশ্চিমকোণে, উত্তরকোণে, নিম্নদিকে ও ঊর্ধ্বদিকে সকল সত্ত্ব, সকল প্রাণি, সকল ভূত (জীব), সকল পুদ্গল (ব্যক্তি), সকল দেহধারী, সকল স্ত্রী, সকল পুরুষ, সকল আর্য, সকল অনার্য, সকল দেবতা, সকল মনুষ্য, সকল অমনুষ্য ও সকল নিম্নশ্রেণির (প্রেত, পিশাচ ও নরকাদির) সত্ত্বগণ শত্রুহীন, বিপদহীন ও নিরোগী হয়ে যেন সুখে বাস করুক, দুঃখ থকে মুক্ত হোক, কর্মাধীন প্রাণিগণ যথালব্ধ সম্পত্তি থেকে বঞ্চিত না হোক।    "
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "৪. পূর্বদিকে যে সকল মহাশক্তি সম্পন্ন ভূতগণ আছেন, তাঁরাও আমাকে (ও তোমাকে) নিরাময় ও সুখে রক্ষা করুন।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "৫. দক্ষিণদিকে যে সকল মহাশক্তি সম্পন্ন দেবতাগণ আছেন, তাঁরাও আমাকে (ও তোমাকে) নিরাময় ও সুখে রক্ষা করুন। "
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "৬. পশ্চিমদিকে যে সকল মহাশক্তি সম্পন্ন নাগগণ আছেন, তাঁরাও আমাকে (ও তোমাকে) নিরাময় ও সুখে রক্ষা করুন।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "৭. উত্তরদিকে যে সকল মহাশক্তি সম্পন্ন যক্ষগণ আছেন, তাঁরাও আমাকে (ও তোমাকে) নিরাময় ও সুখে রক্ষা করুন।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "৮. পূর্বদিকে ধৃতরাষ্ট্র, দক্ষিণদিকে বিরূঢ়ক, পশ্চিমে বিরূপাক্ষ ও উত্তর দিকে কুবের নামক যে চারজন যশস্বী লোকপাল মহারাজা আছেন, তাঁরাও আমাকে (ও তোমাকে) নিরাময় ও সুখে রক্ষা করুন।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "৯. আকাশবাসী ও ভূমিবাসী মহাঋদ্ধি সম্পন্ন যে সকল দেবতা-নাগ আছেন, তাঁরাও আমাকে (ও তোমাকে) নিরাময় ও সুখে রক্ষা করুন।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "১০. বুদ্ধশাসনের প্রতি আস্থাবান (বিশ্বাসী) যে সকল দেবতা আছন, তাঁরাও আমাকে (ও তোমাকে) নিরাময় ও সুখে রক্ষা করুন।"
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "১১. এই পরিত্রাণ প্রভাবে নক্ষত্র, যক্ষ, ও ভূতাদি পাপগ্রহের উপদ্রব নিবারিত হোক। "
+  },
+  {
+    "tagName": "p",
+    "attributes": null,
+    "children": null,
+    "innerText": "১২. চারিদিকে চারি দিকপাল মহারাজাগণ অবস্থান করছেন, এই পুণ্য অনুমোদন করে সদ্ধর্ম ষাসন (চিরকাল) রক্ষা করুন। "
+  }
+]
